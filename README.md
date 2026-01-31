@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Diya Prakash
 
-### Data Scientist | ML/DL Engineer | AI Researcher
+### Aspiring Data Scientist | CSE Student @ IIIT Kottayam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-prakash/)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github)](https://github.com/DiyaPrakash)
@@ -21,10 +21,8 @@ I design, train, and evaluate **ML/DL pipelines** with an emphasis on **performa
 **Profile Snapshot**
 
 - Name: Diya Prakash  
-- Role: ML/DL Engineer  
 - Expertise: NLP, Computer Vision, LLMs, Deep Learning  
 - Current Focus: Turning AI research into usable systems  
-- Philosophy: *Data → Insights → Impact*
 
 ---
 
